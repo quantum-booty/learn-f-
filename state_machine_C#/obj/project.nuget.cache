@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CrW32OYAqVsLqAc5Y1d/6CXWFko4bcfRzc7Z8QjQaqru+MhVH1aFiwoTt41UDiodDA1TLbGNatHgH/bFoNBIw==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/state_machine_C#/state_machine_C#.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/henryw/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/henryw/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

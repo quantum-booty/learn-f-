@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K34zmXNv3GT65zla7qIrr2sD5AOMH+7iaorBphDVrVWEmpUZ7/pf6IpD148+8HLedMZijWDIcau4R8ZYpfamCw==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/method_chaining/method_chaining.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RofCfCkHPDU05zod/C0Ji9w29Y4F7htQKgdrBL7yP5cb0+T7Gbk1hXS1ysHXBhF1oKGZ72xQxZYWBdF5z2wag==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/function_as_interfaces/function_as_interfaces.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kDeEDu1YieU6ANgDEm5zLjadks5J3Dul2nGX5+AaygnIE5ZrVqpuGBj7Mr4LvXE2TqC1IPpdCj8p+NI4+/H5Kg==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/structural_pattern_matching/pattern_matching.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

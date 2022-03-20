@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFa+/mgpgLvBVjCfs4I73zo2oaXdNf4kiuiMbQveIOwXsurD6Tq3wb4yu4nJVOYuaXyIEETFBUkw7jE5OkvBqg==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/stack_based_calculator/stack_based_calculator.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

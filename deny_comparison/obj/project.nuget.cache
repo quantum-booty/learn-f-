@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytxID9FP3U7fP4+zJe08WIUkepcHsfmAIxOX5B2fOXdI94A96eoG1PHD0iscvagXYf5pbUAPAY5qMBfzSGV4DQ==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/deny_comparison/deny_comparison.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

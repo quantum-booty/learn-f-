@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNLVLQg5vKn+XNxKvWlT22EZYIyWrusP/XhK4uaOX9b5bq3j9Esz78u17E3pLBgZm4dwofp78HtpoIbZezHJTg==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/asynchronous_programming/asynchronous_programming.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

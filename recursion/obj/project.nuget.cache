@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvsrXD6XdsrbTKXvNaP9mhShB+vzU9c6UG1tG0XfCW056hpduU7yGna2FhQeW6f+KHhrLcMJfLn5x2u4PTAi7Q==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/F#/recursion/recursion.fsproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
